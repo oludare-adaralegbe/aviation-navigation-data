@@ -1,0 +1,22 @@
+# Core
+pandas
+numpy
+
+# Geospatial 
+geopandas
+shapely
+fiona
+pyproj
+
+# Visualization & Mapping
+matplotlib
+cartopy
+folium
+
+# Jupyter
+jupyter
+notebook
+
+# Optional (for better maps & data handling)
+seaborn
+plotly
