@@ -8,7 +8,7 @@
 ---
 
 ## 🌍 Live Demo  
-👉 [View Interactive Dashboard (GitHub Pages)](https://YOUR_USERNAME.github.io/aviation-navigation-data)  
+👉 [View Interactive Dashboard (GitHub Pages)](https://oludare-adaralegbe.github.io/aviation-navigation-data)  
 
 This interactive map displays airports, navigation aids, and obstructions. It simulates how aviation data analysts process and visualise aeronautical information for safe flight operations.  
 
@@ -76,8 +76,12 @@ The goal is to mirror the responsibilities of an **Aviation Data Analyst**, wher
 
 ---
 
-## 📸 Screenshots / Examples
-*(Add here once charts and maps are ready)*  
+## 📸 Screenshots
+
+![aviation-chart](outputs/aviation_chart.png)
+
+
+![interactive-map](outputs/interactive_map.png)
 
 ---
 
