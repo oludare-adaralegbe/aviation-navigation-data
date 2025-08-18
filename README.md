@@ -1,6 +1,10 @@
 # ✈️ Aviation Navigation Data
 *A portfolio project simulating the work of an Aviation Data Analyst*
 
+
+![airways-chart](/aviation_chart.jpg)
+
+
 ---
 
 ## 🌍 Live Demo  
