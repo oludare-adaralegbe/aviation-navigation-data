@@ -1,0 +1,7 @@
+== Validation Report ==
+
+
+After cleaning the data, there were no
+1. entries with missing coordinates
+2. unrealistic altitudes
+3. outdated date fields
