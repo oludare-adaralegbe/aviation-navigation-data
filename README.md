@@ -8,7 +8,7 @@
 ---
 
 ## 🌍 Live Demo  
-👉 [View Interactive Dashboard (GitHub Pages)](https://oludare-adaralegbe.github.io/aviation-navigation-data)  
+👉 [View Interactive Dashboard (GitHub Pages)](https://oludare-adaralegbe.github.io/aviation-navigation-data/outputs/interactive_cockpit_map.html)  
 
 This interactive map displays airports, navigation aids, and obstructions. It simulates how aviation data analysts process and visualise aeronautical information for safe flight operations.  
 
