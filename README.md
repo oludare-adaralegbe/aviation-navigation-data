@@ -2,9 +2,6 @@
 *A portfolio project simulating the work of an Aviation Data Analyst*
 
 
-![airways-chart](/aviation_chart.jpg)
-
-
 ---
 
 ## 🌍 Live Demo  
@@ -95,7 +92,7 @@ git clone https://github.com/YOUR_USERNAME/aviation-navigation-data.git
 cd aviation-navigation-data
 ```
 
-### 2. Create a Virtual Environment (Recommended)
+### 2. Create a Virtual Environment
 ```
 # Create environment
 python -m venv venv
